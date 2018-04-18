@@ -1,0 +1,15 @@
+{
+  "name": "fast-trie",
+  "version": "1.0.0",
+  "description": "Javascript implementation of hybrid radix tries, optimized for speed. Supports non-unique keys, iteration, range queries, and fast diffing, similar to a Merkle tree.",
+  "main": "index.js",
+  "author": "jd@monolith-labs.com",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/monolithlabs/fast-trie",
+  "bugs": "https://github.com/monolithlabs/fast-trie/issues",
+  "repository": {
+    "url": "https://github.com/monolithlabs/fast-trie",
+    "type": "git"
+  }
+}
